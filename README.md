@@ -56,10 +56,4 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pasal-Np&theme=radical)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasal-Np&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
-![Sabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasal-Np&show_icons=true&theme=radical)
-
-
+### :fire: About Us :
